@@ -1,0 +1,8 @@
+{
+  "name": "SafeZone AI",
+  "description": "Community risk intelligence and early warning platform for real-time weather hazards, flood monitoring, road blockages, and disaster preparedness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
